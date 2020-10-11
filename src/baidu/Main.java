@@ -13,7 +13,7 @@ public class Main {
 			int[][] a = new int[m][n];
 			int x = scan.nextInt();
 			int y = scan.nextInt();
-			
+      int x = scan.nextInt();			
 			while(true) {
 				int move = move(a,x,y);
 				if(move == 1) {
